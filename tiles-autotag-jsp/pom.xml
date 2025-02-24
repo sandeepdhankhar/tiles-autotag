@@ -51,9 +51,9 @@ under the License.
     	<artifactId>tiles-autotag-core</artifactId>
     </dependency>
     <dependency>
-    	<groupId>org.easymock</groupId>
-    	<artifactId>easymock</artifactId>
-    	<scope>test</scope>
-    </dependency>
+    <groupId>org.easymock</groupId>
+    <artifactId>easymock</artifactId>
+    <scope>test</scope>
+</dependency>
   </dependencies>
 </project>
