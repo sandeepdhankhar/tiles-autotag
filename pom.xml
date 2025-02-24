@@ -45,6 +45,7 @@ under the License.
       <name>GitHub Packages</name>
       <url>https://maven.pkg.github.com/sandeepdhankhar/tiles-autotag</url>
     </repository>
+
     </distributionManagement>
     <dependencyManagement>
         <dependencies>
