@@ -40,14 +40,11 @@ under the License.
         <module>assembly</module>
     </modules>
     <distributionManagement>
-        <site>
-            <id>apache-site</id>
-            <url>scm:svn:https://svn.apache.org/repos/asf/tiles/site/staging/tiles-autotag</url>
-        </site>
-        <snapshotRepository>
-          <id>ossrh</id>
-          <url>https://oss.sonatype.org/content/repositories/snapshots</url>
-        </snapshotRepository>
+    <repository>
+      <id>github</id>
+      <name>GitHub Packages</name>
+      <url>https://maven.pkg.github.com/sandeepdhankhar/tiles-autotag</url>
+    </repository>
     </distributionManagement>
     <dependencyManagement>
         <dependencies>
